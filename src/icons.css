@@ -95,7 +95,7 @@ svg.gr-icon {
 }
 
 .gr-i-add                       {background-position: 0 0;}
-.gr-i-alert                     {background-position: 0 calc(1 * -24px);}
+.gr-i-alert                     {background-position: 0 calc(1 * -24px); mask-position: 0 calc(1 * -24px);}
 .gr-i-book                      {background-position: 0 calc(2 * -24px);}
 .gr-i-bookmark                  {background-position: 0 calc(3 * -24px);}
 .gr-i-calendar                  {background-position: 0 calc(4 * -24px);}
